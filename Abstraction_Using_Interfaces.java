@@ -18,7 +18,7 @@ class  test implements i1,i2{
 public class Abstraction_Using_Interfaces {
     public static void main(String[] args) {
         //we can not create a object of a interface //interface s= new interface();
-        a t =new A();
+        a t =new a();
         t.show();
     }
 }
