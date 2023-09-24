@@ -20,6 +20,6 @@ catch(Read e){
 }
 class Read extends Exception{
     Read(){
-        super("you are under age")
+        super("you are under age");
     }
 }
