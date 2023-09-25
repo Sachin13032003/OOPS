@@ -1,5 +1,5 @@
 package OOPS;
-//this keyword means it is the reference variable of a that class 
+//this keyword means it is the instance variable of  that class 
 // this keyword invoke current class reference variable;
 public class This_Keyword {
     public static void main(String[] args) {
